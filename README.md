@@ -1,4 +1,4 @@
-# afillion_225a
+# Adam Fillion
 
 + This is my repo for BMS 225A - Data Science. My work is organized as follows:
 +
